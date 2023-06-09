@@ -16,3 +16,4 @@ Clone the repo and run npm i. MongoDB must also be installed. Node server to run
 Run npm start. Use MongoDB on Studio 3T. Use Insomnia to run API routes.
 ## Walkthrough <a id="walkthrough"></a>
 
+https://drive.google.com/file/d/1l2-tPbK994723ZyXYJ8IOybAmqdot7G8/view
